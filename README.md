@@ -8,4 +8,3 @@ Testowe repozytorium dla grupy 1
 
 678910
 
-## edycja readme
